@@ -1,4 +1,3 @@
-
 ##create go project
 jasintha@jasintha-XPS:~/repo/go$ mkdir hello.io
 jasintha@jasintha-XPS:~/repo/go$ cd hello.io
